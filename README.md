@@ -1,4 +1,4 @@
-#Welcome
+## Welcome
 📍 NYC  
 🛡️ Cybersecurity | IT | Pentesting (in progress)
 
@@ -11,9 +11,9 @@ My focus is on understanding systems deeply — how they work, how they break, a
 I’m currently building a strong foundation in:
 - Operating Systems
 - Networking
-- C++
+- C++ & Python
 - Linux & Bash
-- Offensive Security fundamentals
+- Offensive Security Exploitation
 
 ---
 
@@ -26,7 +26,7 @@ I’m currently building a strong foundation in:
 ---
 
 ## Tools & Technologies
-- Linux (Kali, Ubuntu)
+- Linux (Kali)
 - Bash, Python, C++
 - Git, GitHub
 - Burp Suite, Nmap, ffuf
