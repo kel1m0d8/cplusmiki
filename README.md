@@ -1,6 +1,6 @@
 ## Welcome
 📍 NYC  
-🛡️ Cybersecurity | IT | Pentesting (in progress)
+🛡️ Cybersecurity | IT | Pentesting
 
 ---
 
@@ -21,7 +21,7 @@ I’m currently building a strong foundation in:
 - C++ fundamentals & data structures
 - Bash and Python scripting
 - Hack The Box labs (ethical / legal)
-- OSCP preparation (long-term)
+- OSCP preparation
 
 ---
 
