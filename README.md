@@ -5,7 +5,7 @@
 ---
 
 ## About
-I’m a Computer Science & Information Security student with a background in IT and the U.S. Army.  
+I’m a U.S. Army veteran and Computer Science & Information Security student with a background in IT.  
 My focus is on understanding systems deeply — how they work, how they break, and how to secure them.
 
 I’m currently building a strong foundation in:
@@ -20,7 +20,7 @@ I’m currently building a strong foundation in:
 ## Current Focus
 - C++ fundamentals & data structures
 - Bash and Python scripting
-- Hack The Box labs (ethical / legal)
+- Hack The Box labs
 - OSCP preparation
 
 ---
@@ -38,5 +38,5 @@ This GitHub is used to document learning, labs, and small tools built along the 
 Write-ups and code are shared responsibly and for educational purposes only.
 
 ---
-
+## Contact
 📫 GitHub is the best place to reach me.
